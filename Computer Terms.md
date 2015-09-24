@@ -2,7 +2,9 @@
 >####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
     /ˈeɪ.dʒæks/
     "ay-jax" 
-
+>####[app](http://www.hjenglish.com/new/p528756/)  
+   /æp/
+   "a-p"
 ***
 
 ### B
